@@ -22,6 +22,7 @@
   * Computers are stupid and can’t infer knowledge the way we can. "Semantic tags" (descriptive tags that tell us what type of content the tags contain) let computers know the type of content. 
     * Web crawlers like google’s use HTML to actual determine what text on a page is content, which helps Google put your page in search results. 
     * Services like Pocket and Embedly use it to pull articles to save to your reading list, without pulling the entire site. 
+    * Ever been frustrated that you didn't have an option to translate a page from another language into English? HTML tags control that
 
 ### Lesson Plan
 + `cd` into this new directory we just clone and open up the entire thing in Sublime Text `subl .`
