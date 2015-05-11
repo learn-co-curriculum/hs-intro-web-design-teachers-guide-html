@@ -1,5 +1,5 @@
 ###SWABTS
-***Build their own HTML page from scratch***
+***Students will create their own profile page using HTML!***
 
   + Create a simple page using html tags
   + Add an image to a page using the img tag
