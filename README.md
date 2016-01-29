@@ -92,4 +92,4 @@ HTML makes up every single page on the internet. You can't create a web page wit
 + Indentation does not matter to our browser when it reads the html and displays it but it is SUPER important for humans reading our code.
   * Indentation helps us keep track of what is nested where and helps us to check for our opening and closing brackets. 
 
-<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-html' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-html' title='SWABTS'>SWABTS</a> on Learn.co and start learning to code for free.</p>
